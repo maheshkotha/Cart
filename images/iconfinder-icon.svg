@@ -1,0 +1,17 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polygon fill="none" id="svg_17" points="278.2,487.4 278.3,488.2 278.2,487.4  " class="st9"/>
+  <polygon fill="none" id="svg_18" points="233.8,487.4 233.7,488.2 233.8,487.4  " class="st9"/>
+  <polygon fill="#be1e2d" id="svg_19" points="264.1,388.6 278.2,487.4 278.2,487.4 264.1,388.6  " class="st10"/>
+  <polygon fill="#be1e2d" id="svg_20" points="233.8,487.4 247.9,388.6 247.9,388.6 233.8,487.4  " class="st10"/>
+  <path fill="#ffffff" id="svg_25" d="m141.4,455.6c0.7,0.4 1.4,0.9 2.1,1.3c0,-10.5 0,-16.9 0,-16.9s-0.9,5.9 -2.1,15.6z" class="st7"/>
+  <path fill="#ffffff" id="svg_26" d="m368.5,456.8c0.7,-0.4 1.4,-0.9 2.1,-1.3c-1.2,-9.7 -2,-15.6 -2,-15.6s0,6.4 -0.1,16.9z" class="st7"/>
+  <path transform="rotate(-64.03572082519531 222.78045654296878,201.20513916015625) " id="svg_29" d="m183.701533,43.848657c144.99015,110.63138 100.94638,256.40379 56.42905,314.71295l-77.62778,-156.22714z" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="null" fill="#ef3f6c"/>
+ </g>
+</svg>
